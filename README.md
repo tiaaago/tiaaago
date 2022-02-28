@@ -1,7 +1,7 @@
 ## Welcome to MONTERO! ☁
 
 ### Informations
-<div>
+<div style="display: flex; ">
 <a href="https://github.com/tiaaago/github-readme-stats"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=dracula" />
 </a>
