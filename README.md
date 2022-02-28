@@ -3,7 +3,7 @@
 ### Informations
 <div style="display: flex; align-items: baseline; justify-content: center;">
   <img width="45%"  height="160em" src="https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&theme=dracula" />
+  <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&theme=dracula" />
 </div>
 
 ### About Me:
