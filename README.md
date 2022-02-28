@@ -14,7 +14,7 @@ Brasília, Brasil;<br />
 16 anos;<br />
 Segundo ano do ensino médio;<br />
 
-### Technologies that I have domain or am learning
+### Languages and Tools that I domain
 <div>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
