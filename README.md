@@ -2,12 +2,8 @@
 
 ### Informations
 <div style="display: flex; align-items: baseline; justify-content: center;">
-<a href="https://github.com/tiaaago/github-readme-stats"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/tiaaago/github-readme-stats">
+  <img width="45%"  height="160em" src="https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&theme=dracula" />
-</a>
 </div>
 
 ### About Me:
