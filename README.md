@@ -1,7 +1,7 @@
 # Welcome to MONTERO! ☁
 
 ### Stats
-[![Gabriellimmaa github stats](https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tiaaago)     
+[![Gabriellimmaa github stats](https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tiaaago)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&theme=tokyonight)](https://github.com/tiaaago)
 
 ### About Me
