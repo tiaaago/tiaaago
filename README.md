@@ -1,10 +1,7 @@
 # Welcome to MONTERO! ☁
 
 ### Stats
-<div>
-<img width="45%"  height="160em" src="https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=dracula" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&layout=compact&theme=tokyonight)](https://github.com/tiaaago)
-</div>
 
 ### About Me
 Meu nome é Tiago Enzo, tenho 16 anos e sou desenvolvedor JS. Desde pequeno, sempre tive interesse por computadores, daí, já nasce uma certa vocação para a área. Comecei a programar com 14 anos, programando um BOT de Música para o Discord, desde então, meu conhecimento sobre a linguagem vem crescendo cada vez mais.
