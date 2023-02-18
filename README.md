@@ -1,5 +1,7 @@
 # Welcome to MONTERO! ☁
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/852610866683445328)](https://discord.com/users/852610866683445328)
+
 Seja bem vindo ao meu GitHub, entre! Não precisa tirar os sapatos.
 Você não irá encontrar muitos projetos aqui, visto que grande maioria das coisas que faço são privadas/vendas.
 
