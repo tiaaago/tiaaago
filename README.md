@@ -10,14 +10,14 @@ Você não irá encontrar muitos projetos aqui, visto que grande maioria das coi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&theme=tokyonight)](https://github.com/tiaaago)
 
 ### Sobre Mim
-Meu nome é Tiago Enzo, tenho 16 anos e sou desenvolvedor JS. Desde pequeno, sempre tive interesse por computadores, daí, já nasce uma certa vocação para a área. Comecei a programar com 14 anos, programando um BOT de Música para o Discord, desde então, meu conhecimento sobre a linguagem vem crescendo cada vez mais.
+Meu nome é Tiago Enzo, tenho 17 anos e sou desenvolvedor JS. Desde pequeno, sempre tive interesse por computadores, daí, já nasce uma certa vocação para a área. Comecei a programar com 14 anos, programando um BOT de Música para o Discord, desde então, meu conhecimento sobre a linguagem vem crescendo cada vez mais.
 
-É bem capaz que você entre aqui e encontre meu GitHub vazio
+É bem capaz que você entre aqui e encontre meu GitHub vazio, visto que a maioria dos projetos que eu faço são privados, mas pretendo algum dia publicar algo open-source.
 
 ### Informations
 Brasília, Brasil;<br />
-16 anos;<br />
-Segundo ano do ensino médio;<br />
+17 anos;<br />
+Terceiro ano do ensino médio;<br />
 
 ### Languages and tools that I have domain or am learning
 <div>
