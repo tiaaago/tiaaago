@@ -5,10 +5,6 @@
 Seja bem vindo ao meu GitHub, entre! Não precisa tirar os sapatos.
 Você não irá encontrar muitos projetos aqui, visto que grande maioria das coisas que faço são privadas/vendas.
 
-### GitHub Charts
-[![tiaaago github stats](https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tiaaago)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&theme=tokyonight)](https://github.com/tiaaago)
-
 ### Sobre Mim
 Meu nome é Tiago Enzo, tenho 18 anos e sou desenvolvedor JS. Desde pequeno, sempre tive interesse por computadores, daí, já nasce uma certa vocação para a área. Comecei a programar com 14 anos, programando um BOT de música para o Discord, desde então, meu conhecimento sobre a linguagem vem crescendo cada vez mais.
 
@@ -18,6 +14,10 @@ Meu nome é Tiago Enzo, tenho 18 anos e sou desenvolvedor JS. Desde pequeno, sem
 Brasília, Brasil;<br />
 18 anos;<br />
 Terceiro ano do ensino médio;<br />
+
+### GitHub Charts
+[![tiaaago github stats](https://github-readme-stats.vercel.app/api?username=tiaaago&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tiaaago)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaago&theme=tokyonight)](https://github.com/tiaaago)
 
 ### Languages and tools that I have domain or am learning
 <div>
