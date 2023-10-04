@@ -10,7 +10,7 @@ Meu nome é Tiago Enzo, tenho 18 anos e sou desenvolvedor JS. Desde pequeno, sem
 
 É bem capaz que você entre aqui e encontre meu GitHub vazio, visto que a maioria dos projetos que eu faço são privados, mas pretendo algum dia publicar algo open-source.
 
-### Informations
+### Informações
 Brasília, Brasil;<br />
 18 anos;<br />
 Terceiro ano do ensino médio;<br />
